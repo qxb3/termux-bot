@@ -22,6 +22,8 @@ npm install
 
 #Copy your bot token here (TOKEN=your-token)
 nano/vim/emacs .env
+
+#And edit index.js ssh auth username and password
 ```
 
 #### Running
