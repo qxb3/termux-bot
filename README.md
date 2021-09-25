@@ -14,7 +14,7 @@ apt install openssh
 
 #### Installation
 
-```
+```sh
 sshd
 ssh localhost -p 802
 git clone https://github.com/gx0c/termux-bot.git
@@ -31,8 +31,16 @@ nano/vim/emacs .env
 node index.js
 ```
 
-## Preview
+## Previews
 
+<p float="left">
+  <img src="/previews/1.jpg" width="100" />
+  <img src="/previews/2.jpg" width="100" /> 
+  <img src="/previews/3.jpg" width="100" />
+  <img src="/previews/4.jpg" width="100" />
+  <img src="/previews/5.jpg" width="100" />
+  <img src="/previews/6.jpg" width="100" />
+</p>
 
 ## Note
 
