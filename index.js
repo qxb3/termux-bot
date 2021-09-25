@@ -16,8 +16,8 @@ bot.on('ready', () => {
   }).connect({
     host: '127.0.0.1',
     port: 8022,
-    username: 'u0_a230',
-    password: 'ggopx1124'
+    username: 'your-ssh-username',
+    password: 'your-ssh-password'
   });
 });
 
