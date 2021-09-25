@@ -7,9 +7,8 @@ It's a simple discord bot that can execute commands to your termux.
 #### Requirements
 
 ```
-apt install git
-apt install npm
-apt install openssh
+discord account and bot,
+npm, git, openssh
 ```
 
 #### Installation
