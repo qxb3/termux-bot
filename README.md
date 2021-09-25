@@ -30,3 +30,10 @@ nano/vim/emacs .env
 ```
 node index.js
 ```
+
+## Preview
+
+
+## Note
+
+This bot is still in development and im still new to github and nodejs so expect bugs and errors on the way but im gonna help you as best as i could, Thanks :)
