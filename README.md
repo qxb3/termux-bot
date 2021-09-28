@@ -20,7 +20,8 @@ git clone https://github.com/gx0c/termux-bot.git
 cd termux-bot
 npm install
 
-#Copy your bot token here (TOKEN=your-token)
+export TOKEN=(your-bot-token)
+#Or put your token here
 nano/vim/emacs .env
 
 #And edit index.js ssh auth username and password
