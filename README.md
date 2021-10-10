@@ -44,6 +44,6 @@ node index.js
   <img src="/previews/6.jpg" width="100" />
 </p>
 
-## Note
+# Author
 
-This bot is still in development and im still new to github and nodejs so expect bugs and errors on the way but im gonna help you as best as i could, Thanks :)
+<a href="https://github.com/qxb3">https://github.com/qxb3</a>
