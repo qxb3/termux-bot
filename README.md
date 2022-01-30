@@ -2,7 +2,7 @@
 
 It's a simple discord bot that can execute commands to your termux.
 
-## Try it for yourselves
+## Getting started
 
 #### Requirements
 
